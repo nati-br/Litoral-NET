@@ -1,0 +1,94 @@
+.font-color-deep-blue {
+    color: #002D62;
+}
+
+.font-color-light-blue {
+    color:#00BFFF;
+}
+.font-color-white {
+    color: #FFFFFF;
+}
+
+span{
+    font-weight: bold;
+}
+
+body{
+    text-align: center;
+    
+}
+
+.img-logo{
+    width: 200px;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+body{
+    font-family: poppins, sans-serif;
+    font-size: 25px;
+}
+.secao1{
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+}
+
+.menu, a{
+    display: flex;
+    list-style: none;
+    padding: 0;
+    gap: 20px;
+    color: #002D62;
+    
+}
+
+.img-banner{
+    width: 80%;
+    height: auto;
+    
+}
+.img-internet{
+   width: 35%; 
+   height: auto;
+}
+
+.secao4{
+    background-color: #002D62;
+    color: #FFFFFF;
+    padding: 20px 0;
+    text-align: center;
+}
+
+
+.planos-lista{
+    list-style: none;
+}
+dt{
+    font-weight: bold;
+    margin-top: 20px;
+}
+dd{
+    line-height: 20px;
+}
+
+.secao6{
+    background-color: #002D62;
+    color: #FFFFFF;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0%;
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.secao6 a {
+    color: #FFFFFF; 
+    text-decoration: none; 
+}
+
